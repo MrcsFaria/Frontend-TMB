@@ -37,8 +37,8 @@ Backend da API rodando localmente em http://localhost:5024 com endpoints REST /a
 ## Como rodar localmente
 Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-projeto>
+git clone https://github.com/MrcsFaria/Frontend-TMB
+cd Frontend-TMB
 ```
 
 Instale as dependências:
